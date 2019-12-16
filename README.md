@@ -1,3 +1,1 @@
-;
-helloword
-ad
+https://niceman.tistory.com/105
